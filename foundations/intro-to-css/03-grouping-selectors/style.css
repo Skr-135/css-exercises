@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.clase-uno {
+    background-color: black;
+    color: white;
+}
+
+.clase-dos {
+    background-color: yellow;
+}
+
+.clase-uno
+.clase-dos {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
