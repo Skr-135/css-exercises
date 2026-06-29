@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+p {
+    background-color: #ffc0cb;
+    font-family: Verdana, "dejavu sans", "Geneva", Tahoma, sans-serif;
+}
+
+#seg {
+    color: #00f;
+    font-size: 36px;
+}
+
+
+#ter {
+    font-size: 24px;
+}
+
+#cu {
+    background-color: #7cfc00;
+    font-size: 24px;
+    font-weight: bold;
+}
